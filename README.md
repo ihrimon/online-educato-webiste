@@ -1,6 +1,6 @@
 # Creating a Web Developer Agency Website
 
-This is live site link [Create React App](https://web-developer-agency-webpixi.netlify.app/).
+This is live site link [Web Developer Agency](https://web-developer-agency-webpixi.netlify.app/).
 
 ## Important Features of website
 <ul>
