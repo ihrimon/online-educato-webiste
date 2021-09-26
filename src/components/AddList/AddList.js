@@ -3,7 +3,6 @@ import './AddList.css';
 
 const AddList = (props) => {
     const { list } = props;
-    console.log(list);
 
     let total = 0;
     for (const developer of list) {
