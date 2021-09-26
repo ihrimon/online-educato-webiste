@@ -5,8 +5,10 @@ const Header = () => {
     return (
         <div className='header'>
             <h1>Smart Web Developer Agency</h1>
-            <h4>Build your website
-                unleash your creativity now!</h4>
+            <p>
+                Build your website
+                unleash your creativity now! Are you hire a professional web developer or a newbie? Did you go to a coding school, or are you self-taught? Whatever your case may be, unfortunately, you’re not done learning – nor will you ever be!
+            </p>
             <h2>Total Budget: $45000.00</h2>
         </div>
     );
